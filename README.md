@@ -53,5 +53,5 @@ NOTE: You will not be able to run test.ipynb, etl.ipynb, or etl.py until you hav
 
 <h2>Queries and Results Examples</h2>
 
-![Examples](Postgres Example.png)
+![Examples](Postgres_Example.png)
 
