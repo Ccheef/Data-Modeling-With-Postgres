@@ -1,6 +1,8 @@
 # Data-Modeling-With-Postgres<h2>Introduction</h2>
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. <strong>This project creates ETL pipeline and a Postgres database with tables designed to optimize queries for the Sparkify's analysis.</strong>
-(---------------------------------)
+
+-----------------------------------------
+
 <h2>Database Star Schema Design</h2>
 <h4>Fact Table:</h4>
 <ol>
