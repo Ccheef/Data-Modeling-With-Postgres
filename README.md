@@ -52,5 +52,5 @@ NOTE: You will not be able to run test.ipynb, etl.ipynb, or etl.py until you hav
 ---------------------------------
 
 <h2>Queries and Results Examples</h2>
-![Examples of getting songplays and users table data](https://github.com/Ccheef/Data-Modeling-With-Postgres/blob/master/Postgres%20Example.png)
+![Examples] (https://github.com/Ccheef/Data-Modeling-With-Postgres/blob/master/Postgres%20Example.png)
 
